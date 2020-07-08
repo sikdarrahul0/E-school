@@ -1,0 +1,76 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.button-design{
+    font-family: 'Roboto', sans-serif;
+    border: none;
+    background-color: #21B573;;
+    color: white;
+    border-radius: 33px;
+    padding: 10px 33px;
+}
+
+.nav-link{
+    color: rgb(0, 0, 0);
+}
+nav li{
+    margin: 0 12px;
+}
+/* navbar custom design end */
+
+header{
+    background-color: #F0FFF0;
+    padding-bottom: 70px;
+}
+
+header h2{
+    font-weight: 700;
+    width: 275px;
+    line-height: 1.5;
+}
+.paragraph-highlights1{
+    color: #FD511A;
+}
+.heading-highlights{
+    color: #21B573;
+}
+.paragraph-highlights2{
+    margin-top: 20px;
+    width: 400px;
+    color: #6C6B6B;
+    line-height: 2;
+}
+/* head section design end */
+
+.books{
+    margin-top: 60px;
+    margin-bottom: 85px;
+}
+
+.books h5{
+    margin-top: 35px;
+}
+.image-size{
+    height: 70px;
+    width: 66px;
+}
+.box-design{
+    padding: 50px 0;
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.special-box{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+/* Books section end */
+.card{
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.card-paragraph{
+    color: #585859;
+    font-size: 11px;
+}
