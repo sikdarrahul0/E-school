@@ -10,9 +10,11 @@ body{
     border-radius: 33px;
     padding: 10px 33px;
 }
-
 .nav-link{
     color: rgb(0, 0, 0);
+}
+.nav-link:hover{
+    color: #21B573;
 }
 nav li{
     margin: 0 12px;
@@ -55,7 +57,7 @@ header h2{
     height: 70px;
     width: 66px;
 }
-.box-design{
+.books-box-design{
     padding: 50px 0;
     background: #F8FFFB;
     border-radius: 10px;
@@ -86,7 +88,10 @@ header h2{
 /* course section end */
 
 .testimonial-part{
-    margin-bottom: 60px;
+   padding-bottom: 60px;
+}
+.testimonial-part img{
+    width: 120px;
 }
 
 /* testimonial section end */
@@ -102,4 +107,12 @@ footer a{
     color: white;
     font-size: 13px;
     font-weight: 400;
+}
+footer a:hover{
+    text-decoration: none;
+    color: #21B573;
+}
+.special-box2:hover{
+    box-shadow: 0px 10px 20px white;
+    border-radius: 18px;
 }
